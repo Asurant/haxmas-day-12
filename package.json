@@ -1,26 +1,8 @@
 {
-  "name": "haxmas-day-12",
-  "version": "1.0.0",
-  "description": "A simple 3d website filled with bushes. Every 3d models texture is a bush.",
-  "homepage": "https://github.com/Asurant/haxmas-day-12#readme",
-  "bugs": {
-    "url": "https://github.com/Asurant/haxmas-day-12/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Asurant/haxmas-day-12.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "vite": "^6.4.1"
   },
   "dependencies": {
     "three": "^0.182.0"
-  },
-  "devDependencies": {
-    "vite": "^7.3.0"
   }
 }
